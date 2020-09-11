@@ -22,6 +22,12 @@ Step 2. Add the dependency
         android:layout_height="wrap_content"
         app:drawable1="@drawable/goku"
         app:drawable2="@drawable/ball" />
+	
+	
+	
+	
+	
+	
   
-  
+  ![alt text](https://raw.githubusercontent.com/juckrit/TwoCircularView/master/app/src/main/res/drawable/screen_shot.png)
   
