@@ -1,5 +1,7 @@
 # TwoCircularView
 
+[![](https://jitpack.io/v/juckrit/TwoCircularView.svg)](https://jitpack.io/#juckrit/TwoCircularView)
+
 Step 1. Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
