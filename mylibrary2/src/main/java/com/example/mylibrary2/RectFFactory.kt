@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.example.mylibrary
+package com.example.mylibrary2
 
 import android.graphics.PointF
 import android.graphics.RectF

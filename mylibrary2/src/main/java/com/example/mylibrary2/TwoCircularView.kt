@@ -1,4 +1,4 @@
-package com.example.mylibrary
+package com.example.mylibrary2
 
 import android.content.Context
 import android.graphics.*
